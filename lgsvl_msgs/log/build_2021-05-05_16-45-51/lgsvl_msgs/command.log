@@ -1,0 +1,6 @@
+Invoking command in '/home/acclivis/lgsvl_msgs/build/lgsvl_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/acclivis/lgsvl_msgs -DCMAKE_INSTALL_PREFIX=/home/acclivis/lgsvl_msgs/install/lgsvl_msgs
+Invoked command in '/home/acclivis/lgsvl_msgs/build/lgsvl_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/acclivis/lgsvl_msgs -DCMAKE_INSTALL_PREFIX=/home/acclivis/lgsvl_msgs/install/lgsvl_msgs
+Invoking command in '/home/acclivis/lgsvl_msgs/build/lgsvl_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/acclivis/lgsvl_msgs/build/lgsvl_msgs -- -j6 -l6
+Invoked command in '/home/acclivis/lgsvl_msgs/build/lgsvl_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/acclivis/lgsvl_msgs/build/lgsvl_msgs -- -j6 -l6
+Invoking command in '/home/acclivis/lgsvl_msgs/build/lgsvl_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/acclivis/lgsvl_msgs/build/lgsvl_msgs
+Invoked command in '/home/acclivis/lgsvl_msgs/build/lgsvl_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/acclivis/lgsvl_msgs/build/lgsvl_msgs
